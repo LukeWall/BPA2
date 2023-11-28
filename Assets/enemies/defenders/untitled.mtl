@@ -1,0 +1,112 @@
+# Blender 4.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Guard.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guard_baseColor.png
+map_Ke C:/Guard_emissive.jpeg
+map_Bump -bm 1.000000 C:/Guard_normal.png
+
+newmtl Guard.005
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guard_baseColor.png
+map_Ke C:/Guard_emissive.jpeg
+map_Bump -bm 1.000000 C:/Guard_normal.png
+
+newmtl Studs.004
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Studs_baseColor.png
+map_Ke C:/Studs_emissive.jpeg
+map_Bump -bm 1.000000 C:/Studs_normal.png
+
+newmtl Studs.005
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Studs_baseColor.png
+map_Ke C:/Studs_emissive.jpeg
+map_Bump -bm 1.000000 C:/Studs_normal.png
+
+newmtl Studs.006
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Studs_baseColor.png
+map_Ke C:/Studs_emissive.jpeg
+map_Bump -bm 1.000000 C:/Studs_normal.png
+
+newmtl Studs.007
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Studs_baseColor.png
+map_Ke C:/Studs_emissive.jpeg
+map_Bump -bm 1.000000 C:/Studs_normal.png
+
+newmtl Support.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Support_baseColor.png
+map_Ke C:/Support_emissive.jpeg
+map_Bump -bm 1.000000 C:/Support_normal.png
+
+newmtl SwordBlade.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/SwordBlade_baseColor.png
+map_Ke C:/SwordBlade_emissive.jpeg
+map_Bump -bm 1.000000 C:/SwordBlade_normal.png
+
+newmtl SwordGears.002
+Ns 579.187012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 93.949989
+d 1.000000
+illum 3
+map_Ke C:/SwordGears_emissive.jpeg
+map_Bump -bm 1.000000 C:/SwordGears_normal.png
+
+newmtl phong12
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/phong12_baseColor.png
+map_Ke C:/phong12_emissive.jpeg
+map_Bump -bm 1.000000 C:/phong12_normal.png
